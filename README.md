@@ -38,4 +38,5 @@ The sensor measures distance to the ground in real time. When a dangerous drop i
 
 ## Author
 Team Asylkech
+
 Asylkech Girls' School / Kyrgyzstan
