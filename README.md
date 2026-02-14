@@ -37,5 +37,5 @@ The sensor measures distance to the ground in real time. When a dangerous drop i
 - Enhances — not replaces — the traditional white cane
 
 ## Author
-[Team Asylkech]  
-[Asylkech Girls' School / Kyrgyzstan]
+Team Asylkech
+Asylkech Girls' School / Kyrgyzstan
